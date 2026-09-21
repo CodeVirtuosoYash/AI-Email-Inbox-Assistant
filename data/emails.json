@@ -1,0 +1,128 @@
+[
+  {
+    "source_id": "e001",
+    "sender": "it-support@acme.com",
+    "subject": "Action required: your password expires in 3 days",
+    "body": "Hi, our records show your Acme SSO password will expire in 3 days. Please reset it from the employee portal before it locks you out of email and VPN. No action needed if you've already changed it this week.",
+    "received_at": "2026-08-09T08:30:00"
+  },
+  {
+    "source_id": "e002",
+    "sender": "newsletter@devweekly.com",
+    "subject": "This week in AI",
+    "body": "Top links for the week: a new open-source eval harness, a deep dive on vector index tuning, and a thread on prompt caching costs. Read the full roundup on our site.",
+    "received_at": "2026-08-09T09:10:00"
+  },
+  {
+    "source_id": "e003",
+    "sender": "megan.rivers@talentscout.io",
+    "subject": "Loved your GitHub profile — quick chat?",
+    "body": "Hi, I came across your open-source work and think you'd be a great fit for a Staff Engineer role we're hiring for. No pressure at all, but if you're open to a 15-minute intro call sometime, let me know what week works.",
+    "received_at": "2026-08-09T10:45:00"
+  },
+  {
+    "source_id": "e004",
+    "sender": "facilities@acme.com",
+    "subject": "Heads up: office WiFi maintenance tonight",
+    "body": "The 4th floor WiFi will be down for scheduled maintenance tonight between 11pm and 1am. No action needed — connectivity will be restored automatically before business hours.",
+    "received_at": "2026-08-09T14:20:00"
+  },
+  {
+    "source_id": "e005",
+    "sender": "orders@shopnest.com",
+    "subject": "Your order #58213 has shipped",
+    "body": "Good news! Your order (USB-C dock, 2x notebooks) has shipped and is expected to arrive within 3-5 business days. Track your package anytime from your account.",
+    "received_at": "2026-08-09T16:05:00"
+  },
+  {
+    "source_id": "e006",
+    "sender": "priya.manager@acme.com",
+    "subject": "Q3 report — need it Thursday",
+    "body": "Can you send me the Q3 sales summary before Thursday's leadership review? I need the regional breakdown, not just totals. Call me at 555-0142 if you're blocked on data access.",
+    "received_at": "2026-08-10T08:00:00"
+  },
+  {
+    "source_id": "e007",
+    "sender": "people@acme.com",
+    "subject": "Benefits enrollment closes Friday",
+    "body": "This is a reminder that open enrollment for health and dental benefits closes this Friday at 5pm. If you don't submit your selections, you'll be auto-enrolled in the default plan. Log in to the benefits portal to review your options.",
+    "received_at": "2026-08-10T09:30:00"
+  },
+  {
+    "source_id": "e008",
+    "sender": "sam.teammate@acme.com",
+    "subject": "Can you review my PR before EOD?",
+    "body": "Hey, I opened a PR for the rate-limiter fix and I'd like to ship it today if possible. Would you have time to take a look before end of day? Happy to walk you through it on a quick call if that's faster.",
+    "received_at": "2026-08-10T11:15:00"
+  },
+  {
+    "source_id": "e009",
+    "sender": "cfp@buildcon.dev",
+    "subject": "CFP deadline extended to Monday",
+    "body": "Good news — we've extended the Call for Proposals deadline for BuildCon to next Monday at midnight. If you were on the fence about submitting your talk on agentic workflows, now's your chance.",
+    "received_at": "2026-08-10T13:00:00"
+  },
+  {
+    "source_id": "e010",
+    "sender": "prizes@luckywinner-rewards.biz",
+    "subject": "🎉 YOU'VE WON A FREE CRUISE!!! Claim now",
+    "body": "CONGRATULATIONS!!! You have been randomly selected to win a 7-day Caribbean cruise for two. Click the link below within 24 hours to claim your prize before it expires. Limited spots available, act now!!!",
+    "received_at": "2026-08-10T15:40:00"
+  },
+  {
+    "source_id": "e011",
+    "sender": "legal@acme.com",
+    "subject": "Please sign the updated NDA by end of week",
+    "body": "Legal has updated the standard contractor NDA template. Please review and countersign the attached document by end of week so we can close out the vendor onboarding checklist.",
+    "received_at": "2026-08-10T17:20:00"
+  },
+  {
+    "source_id": "e012",
+    "sender": "diane.chen@acme.com",
+    "subject": "Board meeting prep — need your slides",
+    "body": "I'm finalizing the deck for Thursday's board meeting and I still need your team's roadmap slides. Can you send me the latest version by tomorrow morning so I have time to weave it into the full deck? Let me know if you're stuck on anything.",
+    "received_at": "2026-08-11T08:05:00"
+  },
+  {
+    "source_id": "e013",
+    "sender": "raj.malhotra@northwindtrading.com",
+    "subject": "Concerns about the revised pricing terms",
+    "body": "We reviewed the updated contract and have concerns about the 12% price increase on renewal. This wasn't discussed in our last call and we'd like to understand the reasoning before signing. Please reach out to me directly at raj.malhotra@northwindtrading.com so we can resolve this before the renewal date.",
+    "received_at": "2026-08-11T09:15:00"
+  },
+  {
+    "source_id": "e014",
+    "sender": "finance@acme.com",
+    "subject": "Invoice approval + quick sync needed",
+    "body": "Two things: first, invoice #INV-2291 from our design vendor needs your approval before end of month or it'll miss this payment cycle. Second, can we grab 15 minutes sometime next week to walk through the Q4 budget assumptions before I finalize the draft?",
+    "received_at": "2026-08-11T10:30:00"
+  },
+  {
+    "source_id": "e015",
+    "sender": "angry.customer@mailbox.com",
+    "subject": "Still no response after 3 emails — extremely disappointed",
+    "body": "This is my third email about the billing error on my account and I still haven't heard back from anyone. I was charged twice for the same subscription and need this fixed and refunded immediately, or I'm cancelling and leaving a review about the support experience.",
+    "received_at": "2026-08-11T12:00:00"
+  },
+  {
+    "source_id": "e016",
+    "sender": "digest@producthunt.com",
+    "subject": "Today's top products on Product Hunt",
+    "body": "Check out today's trending launches: a new note-taking app with AI recall, a lightweight CRM for indie founders, and a Figma plugin for design tokens. See the full list on our site.",
+    "received_at": "2026-08-11T13:45:00"
+  },
+  {
+    "source_id": "e017",
+    "sender": "sam.teammate@acme.com",
+    "subject": "lunch tomorrow?",
+    "body": "hey! a few of us are grabbing lunch tomorrow around 12:30 at the new ramen place down the street, want to join? no worries if you're slammed",
+    "received_at": "2026-08-11T15:10:00"
+  },
+  {
+    "source_id": "e018",
+    "sender": "people@acme.com",
+    "subject": "Friendly reminder: update your directory photo",
+    "body": "Whenever you get a chance, it'd be great if you could upload a current photo to the internal directory — a few people mentioned theirs are a couple years old. No rush, just whenever it's convenient.",
+    "received_at": "2026-08-11T18:00:00"
+  }
+]
